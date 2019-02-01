@@ -1,8 +1,6 @@
 # MachineLearning
 MachineLearning
 
-Implemented this as a part of Machine Learning Course( CS 6375 ) by  Prof. Nicholas Ruozzi at University of Texas at Dallas(UTD).
-
 Implemented Different Machine Learning Models like
 
 1) Gradient Descent ( Linear Regression )
